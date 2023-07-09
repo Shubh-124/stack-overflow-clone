@@ -49,7 +49,7 @@ const Navbar = ({ handleSlideIn }) => {
             Products
           </Link>
           <Link to="/" className="nav-item nav-btn res-nav">
-            For Tea
+            For Teams
           </Link>
           <form>
             <input type="text" placeholder="Search..." />
